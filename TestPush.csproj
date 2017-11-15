@@ -12,7 +12,7 @@
     <ProjectTypeGuids>{E097FAD1-6243-4DAD-9C02-E9B9EFC3FFC1};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <TargetFrameworkIdentifier>.NETFramework</TargetFrameworkIdentifier>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
-    <TargetFrameworkProfile>Unity Subset v3.5</TargetFrameworkProfile>
+    <TargetFrameworkProfile>Unity Full v3.5</TargetFrameworkProfile>
     <CompilerResponseFile></CompilerResponseFile>
     <UnityProjectType>Game:1</UnityProjectType>
     <UnityBuildTarget>StandaloneWindows:5</UnityBuildTarget>
@@ -27,7 +27,7 @@
     <IntermediateOutputPath>Temp\UnityVS_obj\Debug\</IntermediateOutputPath>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
-    <DefineConstants>DEBUG;TRACE;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_5_6_0;UNITY_5_6;UNITY_5;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_DUCK_TYPING;ENABLE_GENERICS;ENABLE_PVR_GI;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_RUNTIME_NAVMESH_BUILDING;ENABLE_SPRITERENDERER_FLIPPING;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_RAKNET;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_HUB;ENABLE_CLOUD_PROJECT_ID;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_METRICS;ENABLE_EDITOR_METRICS_CACHING;ENABLE_NATIVE_ARRAY;INCLUDE_DYNAMIC_GI;INCLUDE_GI;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;INCLUDE_PUBNUB;ENABLE_PLAYMODE_TESTS_RUNNER;ENABLE_SCRIPTING_NEW_CSHARP_COMPILER;ENABLE_VIDEO;UNITY_STANDALONE_WIN;UNITY_STANDALONE;ENABLE_SUBSTANCE;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_UNITYWEBREQUEST;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_EVENT_QUEUE;ENABLE_CLUSTERINPUT;ENABLE_VR;ENABLE_WEBSOCKET_HOST;ENABLE_MONO;NET_2_0_SUBSET;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_NATIVE_ARRAY_CHECKS;UNITY_TEAM_LICENSE;ENABLE_VSTU;UNITY_PRO_LICENSE</DefineConstants>
+    <DefineConstants>DEBUG;TRACE;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_5_6_0;UNITY_5_6;UNITY_5;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_DUCK_TYPING;ENABLE_GENERICS;ENABLE_PVR_GI;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_RUNTIME_NAVMESH_BUILDING;ENABLE_SPRITERENDERER_FLIPPING;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_RAKNET;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_HUB;ENABLE_CLOUD_PROJECT_ID;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_METRICS;ENABLE_EDITOR_METRICS_CACHING;ENABLE_NATIVE_ARRAY;INCLUDE_DYNAMIC_GI;INCLUDE_GI;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;INCLUDE_PUBNUB;ENABLE_PLAYMODE_TESTS_RUNNER;ENABLE_SCRIPTING_NEW_CSHARP_COMPILER;ENABLE_VIDEO;UNITY_STANDALONE_WIN;UNITY_STANDALONE;ENABLE_SUBSTANCE;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_UNITYWEBREQUEST;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_EVENT_QUEUE;ENABLE_CLUSTERINPUT;ENABLE_VR;ENABLE_WEBSOCKET_HOST;ENABLE_MONO;NET_2_0;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_NATIVE_ARRAY_CHECKS;UNITY_TEAM_LICENSE;ENABLE_VSTU;UNITY_PRO_LICENSE</DefineConstants>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
@@ -37,7 +37,7 @@
     <IntermediateOutputPath>Temp\UnityVS_obj\Release\</IntermediateOutputPath>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
-    <DefineConstants>TRACE;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_5_6_0;UNITY_5_6;UNITY_5;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_DUCK_TYPING;ENABLE_GENERICS;ENABLE_PVR_GI;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_RUNTIME_NAVMESH_BUILDING;ENABLE_SPRITERENDERER_FLIPPING;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_RAKNET;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_HUB;ENABLE_CLOUD_PROJECT_ID;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_METRICS;ENABLE_EDITOR_METRICS_CACHING;ENABLE_NATIVE_ARRAY;INCLUDE_DYNAMIC_GI;INCLUDE_GI;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;INCLUDE_PUBNUB;ENABLE_PLAYMODE_TESTS_RUNNER;ENABLE_SCRIPTING_NEW_CSHARP_COMPILER;ENABLE_VIDEO;UNITY_STANDALONE_WIN;UNITY_STANDALONE;ENABLE_SUBSTANCE;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_UNITYWEBREQUEST;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_EVENT_QUEUE;ENABLE_CLUSTERINPUT;ENABLE_VR;ENABLE_WEBSOCKET_HOST;ENABLE_MONO;NET_2_0_SUBSET;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_NATIVE_ARRAY_CHECKS;UNITY_TEAM_LICENSE;ENABLE_VSTU;UNITY_PRO_LICENSE</DefineConstants>
+    <DefineConstants>TRACE;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_5_6_0;UNITY_5_6;UNITY_5;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_DUCK_TYPING;ENABLE_GENERICS;ENABLE_PVR_GI;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_RUNTIME_NAVMESH_BUILDING;ENABLE_SPRITERENDERER_FLIPPING;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_RAKNET;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_HUB;ENABLE_CLOUD_PROJECT_ID;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_METRICS;ENABLE_EDITOR_METRICS_CACHING;ENABLE_NATIVE_ARRAY;INCLUDE_DYNAMIC_GI;INCLUDE_GI;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;INCLUDE_PUBNUB;ENABLE_PLAYMODE_TESTS_RUNNER;ENABLE_SCRIPTING_NEW_CSHARP_COMPILER;ENABLE_VIDEO;UNITY_STANDALONE_WIN;UNITY_STANDALONE;ENABLE_SUBSTANCE;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_UNITYWEBREQUEST;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_EVENT_QUEUE;ENABLE_CLUSTERINPUT;ENABLE_VR;ENABLE_WEBSOCKET_HOST;ENABLE_MONO;NET_2_0;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_NATIVE_ARRAY_CHECKS;UNITY_TEAM_LICENSE;ENABLE_VSTU;UNITY_PRO_LICENSE</DefineConstants>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
   </PropertyGroup>
   <ItemGroup>
@@ -141,10 +141,68 @@
     <Compile Include="Assets\OtherPlugins\QRCodeTool\Scripts\QRCode.cs" />
     <Compile Include="Assets\OtherPlugins\QRCodeTool\Scripts\QRDecoder.cs" />
     <Compile Include="Assets\OtherPlugins\QRCodeTool\Scripts\QREncoder.cs" />
+    <Compile Include="Assets\OtherPlugins\Reporter\MultiKeyDictionary.cs" />
+    <Compile Include="Assets\OtherPlugins\Reporter\Reporter.cs" />
+    <Compile Include="Assets\OtherPlugins\Reporter\ReporterGUI.cs" />
+    <Compile Include="Assets\OtherPlugins\Reporter\ReporterMessageReceiver.cs" />
+    <Compile Include="Assets\OtherPlugins\Reporter\Test\Rotate.cs" />
+    <Compile Include="Assets\OtherPlugins\Reporter\Test\TestReporter.cs" />
+    <Compile Include="Assets\OtherPlugins\Thrift\Collections\TCollections.cs" />
+    <Compile Include="Assets\OtherPlugins\Thrift\Collections\THashSet.cs" />
+    <Compile Include="Assets\OtherPlugins\Thrift\Protocol\TAbstractBase.cs" />
+    <Compile Include="Assets\OtherPlugins\Thrift\Protocol\TBase.cs" />
+    <Compile Include="Assets\OtherPlugins\Thrift\Protocol\TBase64Utils.cs" />
+    <Compile Include="Assets\OtherPlugins\Thrift\Protocol\TBinaryProtocol.cs" />
+    <Compile Include="Assets\OtherPlugins\Thrift\Protocol\TCompactProtocol.cs" />
+    <Compile Include="Assets\OtherPlugins\Thrift\Protocol\TField.cs" />
+    <Compile Include="Assets\OtherPlugins\Thrift\Protocol\TJSONProtocol.cs" />
+    <Compile Include="Assets\OtherPlugins\Thrift\Protocol\TList.cs" />
+    <Compile Include="Assets\OtherPlugins\Thrift\Protocol\TMap.cs" />
+    <Compile Include="Assets\OtherPlugins\Thrift\Protocol\TMessage.cs" />
+    <Compile Include="Assets\OtherPlugins\Thrift\Protocol\TMessageType.cs" />
+    <Compile Include="Assets\OtherPlugins\Thrift\Protocol\TMultiplexedProcessor.cs" />
+    <Compile Include="Assets\OtherPlugins\Thrift\Protocol\TMultiplexedProtocol.cs" />
+    <Compile Include="Assets\OtherPlugins\Thrift\Protocol\TProtocol.cs" />
+    <Compile Include="Assets\OtherPlugins\Thrift\Protocol\TProtocolDecorator.cs" />
+    <Compile Include="Assets\OtherPlugins\Thrift\Protocol\TProtocolException.cs" />
+    <Compile Include="Assets\OtherPlugins\Thrift\Protocol\TProtocolFactory.cs" />
+    <Compile Include="Assets\OtherPlugins\Thrift\Protocol\TProtocolUtil.cs" />
+    <Compile Include="Assets\OtherPlugins\Thrift\Protocol\TSet.cs" />
+    <Compile Include="Assets\OtherPlugins\Thrift\Protocol\TStruct.cs" />
+    <Compile Include="Assets\OtherPlugins\Thrift\Protocol\TType.cs" />
+    <Compile Include="Assets\OtherPlugins\Thrift\Server\TServer.cs" />
+    <Compile Include="Assets\OtherPlugins\Thrift\Server\TServerEventHandler.cs" />
+    <Compile Include="Assets\OtherPlugins\Thrift\Server\TSimpleServer.cs" />
+    <Compile Include="Assets\OtherPlugins\Thrift\Server\TThreadPoolServer.cs" />
+    <Compile Include="Assets\OtherPlugins\Thrift\Server\TThreadedServer.cs" />
+    <Compile Include="Assets\OtherPlugins\Thrift\TApplicationException.cs" />
+    <Compile Include="Assets\OtherPlugins\Thrift\TException.cs" />
+    <Compile Include="Assets\OtherPlugins\Thrift\TProcessor.cs" />
+    <Compile Include="Assets\OtherPlugins\Thrift\ThriftSerialize.cs" />
+    <Compile Include="Assets\OtherPlugins\Thrift\Transport\TBufferedTransport.cs" />
+    <Compile Include="Assets\OtherPlugins\Thrift\Transport\TFramedTransport.cs" />
+    <Compile Include="Assets\OtherPlugins\Thrift\Transport\THttpClient.cs" />
+    <Compile Include="Assets\OtherPlugins\Thrift\Transport\TMemoryBuffer.cs" />
+    <Compile Include="Assets\OtherPlugins\Thrift\Transport\TNamedPipeClientTransport.cs" />
+    <Compile Include="Assets\OtherPlugins\Thrift\Transport\TNamedPipeServerTransport.cs" />
+    <Compile Include="Assets\OtherPlugins\Thrift\Transport\TServerSocket.cs" />
+    <Compile Include="Assets\OtherPlugins\Thrift\Transport\TServerTransport.cs" />
+    <Compile Include="Assets\OtherPlugins\Thrift\Transport\TSilverlightSocket.cs" />
+    <Compile Include="Assets\OtherPlugins\Thrift\Transport\TSocket.cs" />
+    <Compile Include="Assets\OtherPlugins\Thrift\Transport\TStreamTransport.cs" />
+    <Compile Include="Assets\OtherPlugins\Thrift\Transport\TTLSServerSocket.cs" />
+    <Compile Include="Assets\OtherPlugins\Thrift\Transport\TTLSSocket.cs" />
+    <Compile Include="Assets\OtherPlugins\Thrift\Transport\TTransport.cs" />
+    <Compile Include="Assets\OtherPlugins\Thrift\Transport\TTransportException.cs" />
+    <Compile Include="Assets\OtherPlugins\Thrift\Transport\TTransportFactory.cs" />
+    <Compile Include="Assets\Scripts\GuideTool.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\OtherPlugins\FingerGestures\Readme.txt" />
     <None Include="Assets\OtherPlugins\QRCodeTool\Document\Readme.txt" />
+    <None Include="Assets\OtherResources\Shaders\GaussBlurWithAlpha.shader" />
+    <None Include="Assets\OtherResources\Shaders\heartShader.shader" />
+    <None Include="Assets\StreamingAssets\build_info.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />

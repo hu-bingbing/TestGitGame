@@ -1,0 +1,156 @@
+-debug
+-target:library
+-nowarn:0169
+-langversion:4
+-out:Temp/Assembly-CSharp.dll
+-unsafe
+-r:E:/unity5.6.0New/Unity/Editor/Data/Managed/UnityEngine.dll
+-r:E:/unity5.6.0New/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+-r:E:/unity5.6.0New/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
+-r:E:/unity5.6.0New/Unity/Editor/Data/UnityExtensions/Unity/TestRunner/UnityEngine.TestRunner.dll
+-r:E:/unity5.6.0New/Unity/Editor/Data/UnityExtensions/Unity/TestRunner/nunit.framework.dll
+-r:E:/unity5.6.0New/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll
+-r:E:/unity5.6.0New/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll
+-r:E:/unity5.6.0New/Unity/Editor/Data/UnityExtensions/Unity/UnityVR/RuntimeEditor/UnityEngine.VR.dll
+-r:Assets/OtherPlugins/QRCodeTool/Plugins/zxing.unity.dll
+-r:E:/unity5.6.0New/Unity/Editor/Data/Managed/UnityEditor.dll
+-define:UNITY_5_3_OR_NEWER
+-define:UNITY_5_4_OR_NEWER
+-define:UNITY_5_5_OR_NEWER
+-define:UNITY_5_6_OR_NEWER
+-define:UNITY_5_6_0
+-define:UNITY_5_6
+-define:UNITY_5
+-define:ENABLE_AUDIO
+-define:ENABLE_CACHING
+-define:ENABLE_CLOTH
+-define:ENABLE_DUCK_TYPING
+-define:ENABLE_GENERICS
+-define:ENABLE_PVR_GI
+-define:ENABLE_MICROPHONE
+-define:ENABLE_MULTIPLE_DISPLAYS
+-define:ENABLE_PHYSICS
+-define:ENABLE_RUNTIME_NAVMESH_BUILDING
+-define:ENABLE_SPRITERENDERER_FLIPPING
+-define:ENABLE_SPRITES
+-define:ENABLE_TERRAIN
+-define:ENABLE_RAKNET
+-define:ENABLE_UNET
+-define:ENABLE_LZMA
+-define:ENABLE_UNITYEVENTS
+-define:ENABLE_WEBCAM
+-define:ENABLE_WWW
+-define:ENABLE_CLOUD_SERVICES_COLLAB
+-define:ENABLE_CLOUD_SERVICES_ADS
+-define:ENABLE_CLOUD_HUB
+-define:ENABLE_CLOUD_PROJECT_ID
+-define:ENABLE_CLOUD_SERVICES_UNET
+-define:ENABLE_CLOUD_SERVICES_BUILD
+-define:ENABLE_CLOUD_LICENSE
+-define:ENABLE_EDITOR_METRICS
+-define:ENABLE_EDITOR_METRICS_CACHING
+-define:ENABLE_NATIVE_ARRAY
+-define:INCLUDE_DYNAMIC_GI
+-define:INCLUDE_GI
+-define:PLATFORM_SUPPORTS_MONO
+-define:RENDER_SOFTWARE_CURSOR
+-define:INCLUDE_PUBNUB
+-define:ENABLE_PLAYMODE_TESTS_RUNNER
+-define:ENABLE_SCRIPTING_NEW_CSHARP_COMPILER
+-define:ENABLE_VIDEO
+-define:UNITY_STANDALONE_WIN
+-define:UNITY_STANDALONE
+-define:ENABLE_SUBSTANCE
+-define:ENABLE_RUNTIME_GI
+-define:ENABLE_MOVIES
+-define:ENABLE_NETWORK
+-define:ENABLE_CRUNCH_TEXTURE_COMPRESSION
+-define:ENABLE_UNITYWEBREQUEST
+-define:ENABLE_CLOUD_SERVICES
+-define:ENABLE_CLOUD_SERVICES_ANALYTICS
+-define:ENABLE_CLOUD_SERVICES_PURCHASING
+-define:ENABLE_CLOUD_SERVICES_CRASH_REPORTING
+-define:ENABLE_EVENT_QUEUE
+-define:ENABLE_CLUSTERINPUT
+-define:ENABLE_VR
+-define:ENABLE_WEBSOCKET_HOST
+-define:ENABLE_MONO
+-define:NET_2_0_SUBSET
+-define:ENABLE_PROFILER
+-define:DEBUG
+-define:TRACE
+-define:UNITY_ASSERTIONS
+-define:UNITY_EDITOR
+-define:UNITY_EDITOR_64
+-define:UNITY_EDITOR_WIN
+-define:ENABLE_NATIVE_ARRAY_CHECKS
+-define:UNITY_TEAM_LICENSE
+-define:ENABLE_VSTU
+-define:UNITY_PRO_LICENSE
+"Assets/OtherPlugins/FingerGestures Samples/1) Finger Events/Scripts/FingerEventsSamplePart1.cs"
+"Assets/OtherPlugins/FingerGestures Samples/1) Finger Events/Scripts/FingerEventsSamplePart2.cs"
+"Assets/OtherPlugins/FingerGestures Samples/2) Gestures/Scripts/BasicGesturesSample.cs"
+"Assets/OtherPlugins/FingerGestures Samples/2) Gestures/Scripts/PinchTwistSample.cs"
+"Assets/OtherPlugins/FingerGestures Samples/2) Gestures/Scripts/PointCloudGestureRenderer.cs"
+"Assets/OtherPlugins/FingerGestures Samples/2) Gestures/Scripts/PointCloudGestureSample.cs"
+"Assets/OtherPlugins/FingerGestures Samples/3) Toolbox/Scripts/DragTrail.cs"
+"Assets/OtherPlugins/FingerGestures Samples/3) Toolbox/Scripts/EmitParticlesOnSwipe.cs"
+"Assets/OtherPlugins/FingerGestures Samples/3) Toolbox/Scripts/ToolboxDragSample.cs"
+"Assets/OtherPlugins/FingerGestures Samples/3) Toolbox/Scripts/ToolboxFingerEventsSample.cs"
+"Assets/OtherPlugins/FingerGestures Samples/3) Toolbox/Scripts/ToolboxOneFingerGestureSample.cs"
+"Assets/OtherPlugins/FingerGestures Samples/Assets/Scripts/BasicSample.cs"
+"Assets/OtherPlugins/FingerGestures Samples/Assets/Scripts/EmitParticles.cs"
+"Assets/OtherPlugins/FingerGestures Samples/Assets/Scripts/MaxFPS.cs"
+"Assets/OtherPlugins/FingerGestures Samples/Assets/Scripts/MenuNode.cs"
+"Assets/OtherPlugins/FingerGestures Samples/Assets/Scripts/SampleBase.cs"
+"Assets/OtherPlugins/FingerGestures Samples/Assets/Scripts/SampleUI.cs"
+"Assets/OtherPlugins/FingerGestures Samples/Assets/Scripts/StartMenu.cs"
+"Assets/OtherPlugins/FingerGestures Samples/Assets/Scripts/SwipeParticlesEmitter.cs"
+Assets/OtherPlugins/FingerGestures/Dev/FingerDebug.cs
+Assets/OtherPlugins/FingerGestures/Scripts/Base/ContinuousGestureRecognizer.cs
+Assets/OtherPlugins/FingerGestures/Scripts/Base/DiscreteGestureRecognizer.cs
+Assets/OtherPlugins/FingerGestures/Scripts/Base/FingerEventDetector.cs
+Assets/OtherPlugins/FingerGestures/Scripts/Base/GestureRecognizer.cs
+Assets/OtherPlugins/FingerGestures/Scripts/Base/GestureRecognizerDelegate.cs
+Assets/OtherPlugins/FingerGestures/Scripts/Components/FingerClusterManager.cs
+Assets/OtherPlugins/FingerGestures/Scripts/Components/ScreenRaycaster.cs
+"Assets/OtherPlugins/FingerGestures/Scripts/Finger Event Detectors/FingerDownDetector.cs"
+"Assets/OtherPlugins/FingerGestures/Scripts/Finger Event Detectors/FingerHoverDetector.cs"
+"Assets/OtherPlugins/FingerGestures/Scripts/Finger Event Detectors/FingerMotionDetector.cs"
+"Assets/OtherPlugins/FingerGestures/Scripts/Finger Event Detectors/FingerUpDetector.cs"
+Assets/OtherPlugins/FingerGestures/Scripts/FingerGestures.cs
+"Assets/OtherPlugins/FingerGestures/Scripts/Gesture Recognizers/DragRecognizer.cs"
+"Assets/OtherPlugins/FingerGestures/Scripts/Gesture Recognizers/LongPressRecognizer.cs"
+"Assets/OtherPlugins/FingerGestures/Scripts/Gesture Recognizers/PinchRecognizer.cs"
+"Assets/OtherPlugins/FingerGestures/Scripts/Gesture Recognizers/PointCloudGestureTemplate.cs"
+"Assets/OtherPlugins/FingerGestures/Scripts/Gesture Recognizers/PointCloudRegognizer.cs"
+"Assets/OtherPlugins/FingerGestures/Scripts/Gesture Recognizers/SwipeRecognizer.cs"
+"Assets/OtherPlugins/FingerGestures/Scripts/Gesture Recognizers/TapRecognizer.cs"
+"Assets/OtherPlugins/FingerGestures/Scripts/Gesture Recognizers/TwistRecognizer.cs"
+"Assets/OtherPlugins/FingerGestures/Scripts/Input Providers/FGInputProvider.cs"
+"Assets/OtherPlugins/FingerGestures/Scripts/Input Providers/FGMouseInputProvider.cs"
+"Assets/OtherPlugins/FingerGestures/Scripts/Input Providers/FGTouchInputProvider.cs"
+Assets/OtherPlugins/FingerGestures/Scripts/Toolbox/Camera/TBDragView.cs
+Assets/OtherPlugins/FingerGestures/Scripts/Toolbox/Camera/TBLookAtTap.cs
+Assets/OtherPlugins/FingerGestures/Scripts/Toolbox/Camera/TBOrbit.cs
+Assets/OtherPlugins/FingerGestures/Scripts/Toolbox/Camera/TBPan.cs
+Assets/OtherPlugins/FingerGestures/Scripts/Toolbox/Camera/TBPinchZoom.cs
+Assets/OtherPlugins/FingerGestures/Scripts/Toolbox/TBDragToMove.cs
+Assets/OtherPlugins/FingerGestures/Scripts/Toolbox/TBHoverChangeMaterial.cs
+Assets/OtherPlugins/FingerGestures/Scripts/Toolbox/TBHoverChangeScale.cs
+Assets/OtherPlugins/FingerGestures/Scripts/Toolbox/TBPinchToScale.cs
+Assets/OtherPlugins/FingerGestures/Scripts/Toolbox/TBQuickSetup.cs
+Assets/OtherPlugins/FingerGestures/Scripts/Toolbox/TBTwistToRotate.cs
+Assets/OtherPlugins/QRCodeTool/Sample/Scripts/Match.cs
+Assets/OtherPlugins/QRCodeTool/Sample/Scripts/QRDecoderTest.cs
+Assets/OtherPlugins/QRCodeTool/Sample/Scripts/QREncodeTest.cs
+Assets/OtherPlugins/QRCodeTool/Scripts/QRCode.cs
+Assets/OtherPlugins/QRCodeTool/Scripts/QRDecoder.cs
+Assets/OtherPlugins/QRCodeTool/Scripts/QREncoder.cs
+Assets/Scripts/GuideTool.cs
+-r:E:\unity5.6.0New\Unity\Editor\Data\Mono\lib\mono\unity\System.Runtime.Serialization.dll
+-r:E:\unity5.6.0New\Unity\Editor\Data\Mono\lib\mono\unity\System.Xml.Linq.dll
+-r:E:\unity5.6.0New\Unity\Editor\Data\Mono\lib\mono\unity\UnityScript.dll
+-r:E:\unity5.6.0New\Unity\Editor\Data\Mono\lib\mono\unity\UnityScript.Lang.dll
+-r:E:\unity5.6.0New\Unity\Editor\Data\Mono\lib\mono\unity\Boo.Lang.dll
+-sdk:unity
