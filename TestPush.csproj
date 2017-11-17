@@ -195,6 +195,23 @@
     <Compile Include="Assets\OtherPlugins\Thrift\Transport\TTransport.cs" />
     <Compile Include="Assets\OtherPlugins\Thrift\Transport\TTransportException.cs" />
     <Compile Include="Assets\OtherPlugins\Thrift\Transport\TTransportFactory.cs" />
+    <Compile Include="Assets\Scripts\FrameWork\Core\Interface\IRender.cs" />
+    <Compile Include="Assets\Scripts\FrameWork\Core\Interface\IRenderGroup.cs" />
+    <Compile Include="Assets\Scripts\FrameWork\Core\Interface\IUpdate.cs" />
+    <Compile Include="Assets\Scripts\FrameWork\Core\MVC\BaseCls.cs" />
+    <Compile Include="Assets\Scripts\FrameWork\Core\MVC\BaseScene.cs" />
+    <Compile Include="Assets\Scripts\FrameWork\Core\MVC\BaseUIRender.cs" />
+    <Compile Include="Assets\Scripts\FrameWork\Core\MVC\Controller.cs" />
+    <Compile Include="Assets\Scripts\FrameWork\Core\MVC\LoadingBarBase.cs" />
+    <Compile Include="Assets\Scripts\FrameWork\Core\MVC\MVC.cs" />
+    <Compile Include="Assets\Scripts\FrameWork\Core\MVC\Mode.cs" />
+    <Compile Include="Assets\Scripts\FrameWork\Core\MVC\UIMgr.cs" />
+    <Compile Include="Assets\Scripts\FrameWork\Core\MVC\UIView.cs" />
+    <Compile Include="Assets\Scripts\FrameWork\Core\MVC\View.cs" />
+    <Compile Include="Assets\Scripts\FrameWork\Core\Time\CallLaterData.cs" />
+    <Compile Include="Assets\Scripts\FrameWork\Core\Time\TimeData.cs" />
+    <Compile Include="Assets\Scripts\FrameWork\Core\Time\TimeManager.cs" />
+    <Compile Include="Assets\Scripts\GameLogic\Base\UIEventTriggerListener.cs" />
     <Compile Include="Assets\Scripts\GuideTool.cs" />
   </ItemGroup>
   <ItemGroup>

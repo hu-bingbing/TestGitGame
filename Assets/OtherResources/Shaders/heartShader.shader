@@ -24,7 +24,7 @@ Shader "Custom/heartShader" {
 #define gl_FragCoord ((_iParam.srcPos.xy/_iParam.srcPos.w)*_ScreenParams.xy)
 
 
-			struct vertOut {
+		struct vertOut {
 			float4 pos : SV_POSITION;
 			float4 srcPos : TEXCOORD0;
 		};
