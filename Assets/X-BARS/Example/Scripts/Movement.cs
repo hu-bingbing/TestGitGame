@@ -2,7 +2,8 @@
 using System.Collections;
 using UnityEngine.UI;
 
-public class Movement : MonoBehaviour {
+public class Movement : SingletonMono<Movement>
+{
 
 	public Slider moveSlider, rotateSlider;
 	public Transform pivot;
